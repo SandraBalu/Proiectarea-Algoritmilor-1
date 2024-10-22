@@ -1,4 +1,5 @@
-# Tema 1 PA
+# Proiectarea Algoritmilor 1
+
 Balu Sandra
 
 ## Alimentare Servere
